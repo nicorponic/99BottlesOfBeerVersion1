@@ -28,8 +28,8 @@ public class Main {
 
     static void singFirstVerse(int a) {
 
-        System.out.println(a + " bottle of beer on the wall");
-        System.out.println(a + " bottle of beer");
+        System.out.println(a + " bottles of beer on the wall");
+        System.out.println(a + " bottles of beer");
         System.out.println("Take one down, pass it around");
 
     }
